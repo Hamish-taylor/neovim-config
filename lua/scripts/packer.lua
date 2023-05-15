@@ -52,4 +52,5 @@ print("this is a script")
         -- tag = 'release' -- To use the latest release (do not use this if you run Neovim nightly or dev builds!)
     }
     use { 'mhartington/formatter.nvim' }
+    use {'github/copilot'}
 end)
